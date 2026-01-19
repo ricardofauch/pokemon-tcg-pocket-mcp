@@ -1,4 +1,4 @@
-markdown# Pokemon TCG Pocket MCP Server
+# Pokemon TCG Pocket MCP Server
 
 A Model Context Protocol (MCP) server that provides access to Pokemon Trading Card Game Pocket data through the TCGdex API. This server enables Claude and other MCP clients to search and retrieve detailed information about TCG Pocket cards, sets, and boosters.
 
