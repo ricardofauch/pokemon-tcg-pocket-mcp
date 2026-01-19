@@ -209,7 +209,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Pokemon TCG Pocket data provided by [TCGdex](https://www.tcgdex.net/)
 - Built with the [Model Context Protocol SDK](https://github.com/modelcontextprotocol)
-- This project was inspired by the Pokemon TCG MCP Server structure. Special thanks to the original developers for the implementation approach.
+- This project was inspired by the Pokemon TCG MCP Server structure. Special thanks to the original developers ([Jared Grimes](https://github.com/jlgrimes)) for the implementation approach.
 
 ## Disclaimer
 
