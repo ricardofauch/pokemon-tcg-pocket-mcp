@@ -199,7 +199,7 @@ This server uses the [TCGdex API](https://www.tcgdex.net/) which provides compre
 
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE) file for details
 
 ## Contributing
 
@@ -209,6 +209,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Pokemon TCG Pocket data provided by [TCGdex](https://www.tcgdex.net/)
 - Built with the [Model Context Protocol SDK](https://github.com/modelcontextprotocol)
+- This project was inspired by the Pokemon TCG MCP Server structure. Special thanks to the original developers for the implementation approach.
 
 ## Disclaimer
 
